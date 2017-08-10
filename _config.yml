@@ -1,13 +1,13 @@
 name: Shef
 description: ""
-baseurl: 
-url: http://shef.io
+baseurl:
+url: shef.io
 social:
-  github: shef
-  email: wsheet@shef.io
+  github: projectshef
+  email: support@shef.io
   facebook:
-  twitter: shef
-  instagram: shef
+  twitter: projectshef
+  instagram: projectshef
   tumblr:
 permalink: /:categories/:title/
 sass:
