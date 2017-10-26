@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="92px" height="100px" viewBox="0 0 92 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Serving</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="58" y="0" width="27" height="86" rx="2"></rect>
+        <filter x="-42.6%" y="-11.0%" width="185.2%" height="126.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0462522645 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-4" x="58" y="9" width="27" height="77" rx="2"></rect>
+        <filter x="-50.0%" y="-30.0%" width="200.0%" height="160.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12256567 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Filters" transform="translate(-280.000000, 5.000000)">
+            <g id="Serving" transform="translate(280.000000, 0.000000)">
+                <text id="Servings" font-family="SFUIText-Semibold, SF UI Text" font-size="12" font-weight="500" fill="#FFF">
+                    <tspan x="0" y="24">Servings</tspan>
+                </text>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Rectangle-4">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <rect id="Rectangle-6" fill="#F7F7F7" mask="url(#mask-2)" x="58" y="32" width="27" height="19.5"></rect>
+                <g id="Serving-Picker" mask="url(#mask-2)">
+                    <g transform="translate(58.000000, 11.000000)">
+                        <text id="3" stroke="none" fill="none" font-family="SFUIText-Bold, SF UI Text" font-size="16" font-weight="bold">
+                            <tspan x="8" y="56" fill="#4A4A4A">3</tspan>
+                        </text>
+                        <text id="4" stroke="none" fill="none" font-family="SFUIText-Bold, SF UI Text" font-size="16" font-weight="bold">
+                            <tspan x="8" y="76" fill="#4A4A4A">4</tspan>
+                        </text>
+                        <text id="1" stroke="none" fill="none" font-family="SFUIText-Bold, SF UI Text" font-size="16" font-weight="bold">
+                            <tspan x="5" y="15" fill="#4A4A4A">1</tspan>
+                        </text>
+                        <text id="2" stroke="none" fill="none" font-family="SFUIText-Bold, SF UI Text" font-size="16" font-weight="bold">
+                            <tspan x="8" y="36" fill="#4A4A4A">2</tspan>
+                        </text>
+                        <path d="M0,21 L26.5,21" id="Line-2" stroke="#EBEBEB" stroke-width="0.5" fill="none" stroke-linecap="square"></path>
+                        <path d="M0,60 L26.5,60" id="Line-2" stroke="#EBEBEB" stroke-width="0.5" fill="none" stroke-linecap="square"></path>
+                        <path d="M0,40.5 L26.5,40.5" id="Line-2" stroke="#EBEBEB" stroke-width="0.5" fill="none" stroke-linecap="square"></path>
+                        <path d="M22.3183712,7.89387628 L23.1061237,8.68162885 L19.8938763,11.8938763 L16.8938763,8.89387628 L17.6816288,8.10612372 L19.8938763,10.3183712 L22.3183712,7.89387628 Z" id="Combined-Shape" stroke="none" fill="#00CC99" fill-rule="evenodd"></path>
+                    </g>
+                </g>
+                <mask id="mask-5" fill="white">
+                    <use xlink:href="#path-4"></use>
+                </mask>
+                <rect stroke="#00CC99" stroke-width="0.5" x="58.25" y="9.25" width="26.5" height="76.5" rx="2"></rect>
+                <g id="cursor" filter="url(#filter-6)" mask="url(#mask-5)" fill-rule="nonzero">
+                    <g transform="translate(73.000000, 41.000000)">
+                        <polygon id="Shape" fill="#FFFFFF" points="0.2 16.9 0.2 0.9 11.8 12.5 5 12.5 4.6 12.6"></polygon>
+                        <polygon id="Shape" fill="#FFFFFF" points="9.3 17.6 5.7 19.1 1 8 4.7 6.5"></polygon>
+                        <rect id="Rectangle-path" fill="#000000" transform="translate(5.500810, 13.594010) rotate(-22.772792) translate(-5.500810, -13.594010) " x="4.50075259" y="9.59378037" width="2.00011482" height="8.00045927"></rect>
+                        <polygon id="Shape" fill="#000000" points="1.2 3.3 1.2 14.5 4.2 11.6 4.6 11.5 9.4 11.5"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

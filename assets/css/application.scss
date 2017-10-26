@@ -17,13 +17,28 @@
 // Custom
 .navbar {
 	height:4.5rem;
+	margin-top: 1em;
 }
 .nav-brand {
   min-height:115px;
+  padding-left:1em;
 }
-
+.nav-right{
+	max-height: 4em;
+}
 .phone {
-	margin-bottom:-150px;
+	margin-bottom:-8em;
+	position: relative;
+	z-index: 1;
+}
+.hero .left{
+	margin:2em auto -2em;
+}
+.hero.features{
+    z-index: 99;
+    position: relative;
+    background: $primary;
+    color:white;
 }
 .post-card {
   .post-title {
@@ -32,4 +47,23 @@
   .post-categories {
     margin-bottom: 5px;
   }
+}
+.shadow {
+    -webkit-filter: drop-shadow( 5px 5px 5px rgba(0,0,0,.2));
+            filter: drop-shadow( 5px 5px 5px rgba(0,0,0,.2));
+}
+.addbutton{
+	width:12em;
+	margin:2em auto;
+}
+.serving{
+	width:12em;
+	margin:2em auto;
+}
+@media (min-width:768px){
+	.phone{	
+		margin:-150px auto -250px;
+		position: relative;
+		z-index: 1;
+	}
 }
