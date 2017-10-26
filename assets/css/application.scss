@@ -37,7 +37,7 @@
 .hero.features{
     z-index: 99;
     position: relative;
-    background: #00d1b2; //$primary
+    background: $primary; //#00d1b2
     color:white;
 }
 .post-card {
