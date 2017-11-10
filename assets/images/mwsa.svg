@@ -5,13 +5,13 @@
 ]>
 <svg version="1.0"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0px" y="0px" width="204px" height="204px" viewBox="2.4 3.1 204 204"
-	 overflow="visible" enable-background="new 2.4 3.1 204 204" xml:space="preserve">
+	 x="0px" y="0px" width="61px" height="62px" viewBox="2.414062 3 61 62"
+	 overflow="visible" enable-background="new 2.414062 3 61 62" xml:space="preserve">
 <defs>
 </defs>
 <g>
 	<defs>
-		<circle id="SVGID_1_" cx="33.1" cy="33.8" r="30.7"/>
+		<circle id="SVGID_1_" cx="33.143311" cy="33.847656" r="30.729248"/>
 	</defs>
 	<clipPath id="SVGID_2_">
 		<use xlink:href="#SVGID_1_"  overflow="visible"/>
@@ -1007,7 +1007,7 @@ JJcoOj217ZTAj1AWct+BUH2rkX/Y2/ahjbafhtqxJ/uxKw/MMRX9UXFGRXUs0qdYo43k9HpJn8t9
 h+xF+1XqLhLf4dX6E/8APZ4IB+csqivUvD3/AATS/am1plXUdM03QA+PmvdRicL9Raic/kK/o/59
 aKmWaVeiRSyiit22fiv4L/4JK3zsk/xF+IEcQBG630q0aTI74nnZMfjCc19vfDP9gn9mf4Zyw3sH
 hn/hJNQhxi51t/thyOQfIIW3yDyCIsjtX2Tye1L71w1MbWno5aHoUsDh6buo6+ZBb29vaQR21rGs
-MMShURAFRVAwAAMAAegFSUUVxHohRRRQIKKKKACiiigAooooA//Z" transform="matrix(0.3018 0 0 0.3018 0 0)">
+MMShURAFRVAwAAMAAegFSUUVxHohRRRQIKKKKACiiigAooooA//Z" transform="matrix(0.30176 0 0 0.30176 0 0)">
 		</image>
 	</g>
 </g>
