@@ -6,6 +6,10 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
     <link rel="icon" href="{{ "/assets/images/favicon.ico" | prepend: site.baseurl }}">
+    <link rel="icon" sizes="57x57" href="{{ "/assets/images/apple-icon-57x57-precomposed.png" | prepend: site.baseurl }}">
+    <link rel="icon" sizes="72x72" href="{{ "/assets/images/apple-icon-72x72-precomposed.png" | prepend: site.baseurl }}">
+    <link rel="icon" sizes="114x114" href="{{ "/assets/images/apple-icon-114x114-precomposed.png" | prepend: site.baseurl }}">
+    <link rel="icon" sizes="144x144" href="{{ "/assets/images/apple-icon-144x144-precomposed.png" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed.xml" />
 
